@@ -24,3 +24,22 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
+## Add-On
+### AWS Generative AI Community 
+https://community.aws/generative-ai?trk=e6c4fac1-336d-4874-8cd4-c0c6eaf01a95&sc_channel=el
+
+### PartyRock Guide 
+https://partyrock.aws/guide/getStarted
+
+### Amazon Bedrock Code Examples 
+https://docs.aws.amazon.com/bedrock/latest/userguide/service_code_examples.html?trk=5c0baeda-f6f2-4026-9bb3-e28fef973ad8&sc_channel=el
+
+### Getting Started with Amazon Q 
+https://aws.amazon.com/q/getting-started/?trk=1ad392a2-69a2-473f-8abe-45882c6ed354&sc_channel=el
+
+## Workshop resoucres:
+Workshop link - https://catalog.workshops.aws/building-gen-ai-apps 
+
+## GitHub Repo 
+https://github.com/build-on-aws/gen-ai-workshop 
+Now go build!!!

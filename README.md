@@ -42,4 +42,5 @@ Workshop link - https://catalog.workshops.aws/building-gen-ai-apps
 
 ## GitHub Repo 
 https://github.com/build-on-aws/gen-ai-workshop 
+
 Now go build!!!
